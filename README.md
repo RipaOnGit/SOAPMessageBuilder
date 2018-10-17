@@ -73,3 +73,4 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 | Version | Changes |
 | ----- | ----- |
 | 1.0.0.0 | Initial commit. |
+| 1.1.0.0 | Separation of business logic from the UI application to own component DLL. |
