@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPMessageBuilder", "SOAPMessageBuilder\SOAPMessageBuilder.csproj", "{6314373C-0BE1-4639-ABA4-A5860D215852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLGenerator", "XMLGenerator\XMLGenerator.csproj", "{ACA48E89-D110-4C24-B90F-8775543E5546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6314373C-0BE1-4639-ABA4-A5860D215852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6314373C-0BE1-4639-ABA4-A5860D215852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6314373C-0BE1-4639-ABA4-A5860D215852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6314373C-0BE1-4639-ABA4-A5860D215852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA48E89-D110-4C24-B90F-8775543E5546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA48E89-D110-4C24-B90F-8775543E5546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA48E89-D110-4C24-B90F-8775543E5546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA48E89-D110-4C24-B90F-8775543E5546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF7A747A-C7F5-43DA-9CAD-5458CD7BBE2A}
+	EndGlobalSection
+EndGlobal
